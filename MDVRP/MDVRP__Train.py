@@ -8,7 +8,7 @@ import logging
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, "../..")  # for problem_def
 sys.path.insert(0, "../../..")  # for utils
-sys.path.append('home/ljq21/md-mta/my_utils')
+sys.path.append('')
 
 from my_utils import create_logger
 from MDVRP_Trainer import MDVRPTrainer
