@@ -21,7 +21,6 @@ def Draw_1_Problem(data, solution, result_folder):
     for i in solution_list:
         node.append(full_node[i])
 
-    # plt.rcParams['font.sans-serif'] = ['KaiTi']
     plt.rcParams['axes.unicode_minus'] = False
     plt.rcParams['figure.figsize'] = (20, 15)
     plt.title(u'problem')
