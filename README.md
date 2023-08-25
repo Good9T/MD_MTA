@@ -1,6 +1,8 @@
 # MD_MTA
 The source code of MD-MTA
-
+We provide codes for two VRP variants<br>
+- Multi-depot Vehicle Routing Problem (MDVRP) <br>
+- Multi-depot Open Vehicle Routing Problem (MDOVRP) <br>
 
 ### Basic Usage
 To train a model
