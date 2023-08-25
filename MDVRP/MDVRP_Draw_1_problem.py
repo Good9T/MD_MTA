@@ -39,7 +39,6 @@ def Draw_1_Problem(data, solution, result_folder):
 
     # plot routes
 
-    # plt.rcParams['font.sans-serif'] = ['KaiTi']
     plt.rcParams['axes.unicode_minus'] = False
     plt.title(u'routes')
     p1 = []
